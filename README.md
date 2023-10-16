@@ -1,16 +1,22 @@
-# Form
+**_Form_**
 
-## Technologies
+---
 
-- **Next**
-- **Tailwind**
-- **Ant Design**
+**_Project Dependencies_**
 
-## Preview
-### Desktop Mode
-![00](https://github.com/rzvkoli/weather/assets/100797809/ed2fa64d-c652-4cfb-b8e2-7028a69fe9e3)
-![01](https://github.com/rzvkoli/weather/assets/100797809/70d26b15-4876-4827-b81b-3463a7c42927)
-![02](https://github.com/rzvkoli/weather/assets/100797809/077e39dd-4191-439b-af97-d65dd107fa63)
-![04](https://github.com/rzvkoli/weather/assets/100797809/842927f8-22bc-4ce0-aa82-a68e5a6ebe82)
+_v 1.0 :_
+
+- _Next_
+- _Tailwind_
+- _Ant Design_
+- _Mongodb_
+- _Mongoos_
+
+---
+
+**_Preview_**
+
+![00](https://github.com/immohammadrezatavakkoli/coffeeshop/assets/100797809/2c0667db-decf-49d7-9e5c-3698e6cd5d5b)
+![01](https://github.com/immohammadrezatavakkoli/coffeeshop/assets/100797809/15e714c4-4832-4714-8894-17b73e7885c2)
 
 ---
