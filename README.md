@@ -4,8 +4,6 @@
 
 **_Project Dependencies_**
 
-_v 1.0 :_
-
 - _Next_
 - _Tailwind_
 - _Ant Design_
