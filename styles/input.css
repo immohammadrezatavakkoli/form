@@ -1,0 +1,43 @@
+.ant-input ,
+.ant-input:hover ,
+.ant-input:focus ,
+.ant-input:active {
+  font-style: italic !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: hidden !important;
+  border-radius: 0.375rem !important;
+  background-color: #D2FFC3 !important;
+  padding: 0.75rem !important;
+  padding-left: 1.5vh !important;
+  font-size: 2.5vh !important;
+}
+
+.ant-input::placeholder {
+  font-style: italic !important;
+  font-weight: 500;
+  color: #7c9375;
+}
+
+.ant-form-item-explain-error {
+  color: #000000 !important;
+  font-size: 2.5vh !important;
+}
+
+/* password input */
+
+.ant-input-affix-wrapper{
+  box-shadow: none !important;
+  border: hidden !important;
+  background-color: #D2FFC3 !important;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0.5vh !important;
+  padding-right: 2vh !important;
+  border-radius: 0.375rem !important;
+  position: relative;
+}
+
+.ant-form-item-feedback-icon{
+    display: none;
+}
