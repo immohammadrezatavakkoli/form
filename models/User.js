@@ -1,6 +1,10 @@
 import {Schema, model, models} from "mongoose";
 
 const userSchema = new Schema ({
+    createAt: {
+        type: Date,
+        default: () => Date.now()
+    },
     firstName: {
         type: String,
         minlength: 3
@@ -21,11 +25,7 @@ const userSchema = new Schema ({
     // email: {
     //     type: String,
     //     required: true
-    // },
-    createAt: {
-        type: Date,
-        default: () => Date.now()
-    }
+    // }
 })
 
 const User = models.User || model("User", userSchema);
